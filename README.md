@@ -23,5 +23,4 @@ For those of you that enter commands to close or quit windows, it will not rende
 map cmd+w send_text all exit\r
 ```
 
-> "Could this flight be any slower?"
-> - *Droz*
+> "Could this flight be any slower?" - *Droz*
