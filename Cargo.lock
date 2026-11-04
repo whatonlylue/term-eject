@@ -1510,6 +1510,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "term_eject"
+version = "0.1.0"
+dependencies = [
+ "color-eyre",
+ "crossterm",
+ "rand 0.10.3",
+ "ratatui",
+]
+
+[[package]]
 name = "termina"
 version = "0.3.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1583,16 +1593,6 @@ dependencies = [
  "wezterm-dynamic",
  "wezterm-input-types",
  "winapi",
-]
-
-[[package]]
-name = "tf2_theme"
-version = "0.1.0"
-dependencies = [
- "color-eyre",
- "crossterm",
- "rand 0.10.3",
- "ratatui",
 ]
 
 [[package]]
